@@ -17,7 +17,4 @@
   <img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=Apple&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
 </p>
 <br>
-<p align="center">Me</p>
-<p align="center">
-  <a href="https://blog.naver.com/bjwsuper"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/bjwsuper"/></a>&nbsp
-</p>
+
