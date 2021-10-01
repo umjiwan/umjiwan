@@ -1,4 +1,4 @@
-<img src="github_ulhangry.png">
+<center><img src="github_ulhangry.png"></center>
 <h4 align="center">🔹md_st_coder🔹</h4>
 <p style="line-height: 0.1;" align="center">🇰🇷</p>🇷
 <p align="center">My favorite lang</p>
